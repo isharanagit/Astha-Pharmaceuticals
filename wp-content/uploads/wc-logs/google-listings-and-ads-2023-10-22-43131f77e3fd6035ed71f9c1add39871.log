@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 2023-10-22T14:40:24+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Google account is not connected.
+=======
+2023-10-22T13:20:31+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Google account is not connected.
+>>>>>>> ca3187b88093cbc5e9bea8d70976feece65c8e88
